@@ -11,16 +11,18 @@
 
 
 
-my team members
-santhosh kumar
-harikrishna
-madhu
 
 
 
 ## Demo
 
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
+
+
+##my team members
+santhosh kumar
+harikrishna
+madhu
 
 ## Hosted API Microservice
 
@@ -33,6 +35,7 @@ madhu
 curl http://faker.hook.io?property=name.findName&locale=de
 ```
 
+#
 ## Usage
 
 ### Browser
